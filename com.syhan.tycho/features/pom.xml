@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.syhan.tycho</groupId>
+    <artifactId>com.syhan.tycho.features</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>com.syhan.tycho</groupId>
+        <artifactId>com.syhan.tycho.root</artifactId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>com.syhan.tycho.feature</module>
+    </modules>
+</project>
